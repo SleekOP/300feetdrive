@@ -19,6 +19,6 @@ Turn on Radio Foorti 88.0 FM for its live broadcast. The radio needs an internet
 
 This game is made for entertainment purposes only. Please drive safely in real life.
 
-## Designed for desktop play; mobile support is not available yet!
+## Designed for desktop play, mobile support is not available yet
 
 Created by Sleek.
