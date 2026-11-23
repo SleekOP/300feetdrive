@@ -27,12 +27,5 @@ The game illustrations and sound effects are original. The Foorti button plays t
 
 ## Scores and custom address
 
-This project is static, so run history is stored on the current browser only. A shared online leaderboard needs a database or server account and configuration; Netlify Drop alone cannot synchronize scores between players. No service can be promised free forever, because third-party free plans and limits can change.
+This project is static, so run history is stored on the current browser only.
 
-Netlify provides a site address after deployment. For a custom address such as `300feetroad.bysleek.xyz`, you need to control `bysleek.xyz`, then add the subdomain in Netlify and point your DNS to the site using Netlify's [custom domain instructions](https://docs.netlify.com/manage/domains/manage-domains/assign-a-domain-to-your-site-app/).
-
-## Deploy
-
-1. Open [Netlify Drop](https://app.netlify.com/drop).
-2. Unzip `dhaka-300-feet-chase.zip` and drag the `dhaka-300-feet-chase` folder to the drop area.
-3. Netlify publishes it and gives you the site URL. There is no build command or publish directory to set.
