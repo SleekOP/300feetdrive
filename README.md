@@ -4,8 +4,6 @@ A self-contained, original browser driving game inspired by Dhaka's 300 Feet Roa
 
 ## Play and controls
 
-Open `index.html` in a modern browser, or deploy this folder to Netlify Drop.
-
 - **Up / W:** accelerate; **Down / S:** brake; **Left / Right / A / D:** steer.
 - On touchscreens, use the four on-screen controls.
 - The view stays in third-person so your car remains visible.
